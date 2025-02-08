@@ -3,8 +3,8 @@
 
 
 ## 🌐 Связь со мной:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kudryashoff568@mail.ru) 
-TG: @dark_angel568
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kudryashoff568@mail.ru) <br>
+TG: @dark_angel568 <br>
 VK: https://vk.com/alessandro_djirandolle
 
 # 💻 Стек технологий:
